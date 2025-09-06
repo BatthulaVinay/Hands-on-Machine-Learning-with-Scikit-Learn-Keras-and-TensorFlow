@@ -1,5 +1,3 @@
-# Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
-
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 > Practical guide to building intelligent systems with Python’s most powerful ML libraries.  
