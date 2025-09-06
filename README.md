@@ -38,4 +38,11 @@ This book is divided into two main parts:
   pip install scikit-learn
   pip install tensorflow keras
 
+git clone https://github.com/your-username/Hands-On-ML.git
+cd Hands-On-ML
+
+pip install -r requirements.txt
+
+jupyter notebook
+
 
